@@ -20,6 +20,14 @@ body {
     margin: 0;
 }
 
+a {
+    color: rgb(204, 113, 204);
+}
+
+.container {
+    width: 500px;
+}
+
 .container h1 {
     text-align: center;
 }
